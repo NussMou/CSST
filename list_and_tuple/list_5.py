@@ -8,7 +8,6 @@ print(l)
 
 # if I want ['a', 'b', 'c', 'X', 'D', 'D']
 
-
 l = ["a","b","c"]
 l.extend(list("XDD"))
 print(l)

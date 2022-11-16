@@ -1,3 +1,5 @@
+# input進來的格式
+
 # a = input().split()
 # print(a)
 # print(type(a))

@@ -1,5 +1,3 @@
-# iterable
-
 l = list()
 l1 = []
 l2 = [1,2,3,4]
