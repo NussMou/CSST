@@ -1,3 +1,4 @@
-# a = 0
-# b = a++
-# print(a)
+a = 0
+b = a++
+print(a)
+

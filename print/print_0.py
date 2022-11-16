@@ -4,5 +4,6 @@ print("a", "b", "c")
 print("a" + "b" + "c")
 print("a") # " and '有差嗎
 print('b')
-print("I'm Nuss")
+# print("I'm Nuss")
 # print('I'm Nuss')
+

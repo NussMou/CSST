@@ -1,6 +1,9 @@
-a = input().split()
-print(type(a))
-print(a)
+# a = input().split()
+# print(type(a))
+# print(a)
+
+# para1(para2)
+# int(a)
 
 # a = list(map(int,input().split()))
 # print(type(a))
@@ -16,4 +19,3 @@ print(a)
 # print(a)
 
 # list差不多到一個段落了
-# back to for loop

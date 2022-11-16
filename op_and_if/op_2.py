@@ -10,8 +10,8 @@ if (a>b or c<0):
     print(2)
 
 # if a>b && c:
-#     print(3)
+    # print(3)
 
 # if(a>b || c<0):
-#     print(4)
+    # print(4)
 

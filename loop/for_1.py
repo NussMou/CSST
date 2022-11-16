@@ -1,7 +1,7 @@
 # 講完list
 l = [i+50 for i in range(10)]
 
-# print(l)
+print(l)
 
 # for i in range(len(l)):
 #     print(l[i])
@@ -16,7 +16,7 @@ l = [i+50 for i in range(10)]
 
 # print(l)
 
-# for i in range(10):
-#     l[i] = l[i] + 10000
+for i in range(10):
+    l[i] = l[i] + 10000
 
-# print(l)
+print(l)

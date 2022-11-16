@@ -12,3 +12,7 @@ print(l)
 l = ["a","b","c"]
 l.extend(list("XDD"))
 print(l)
+
+
+
+
